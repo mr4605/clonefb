@@ -1,41 +1,41 @@
-# FB-KING FULL TOOLS
 
-༻༒༺๑๑Talha Fast FB-KING File Cloner ๑๑༻༒༺
 
-༻༒༺๑๑Free FB-KING  file cloning Tools 2022 ๑๑༻༒༺
 
-༻༒༺  fast Cloning FB-KING free tools. ༻༒༺
 
-༻༒༺ apt update
 
-༻༒༺ apt upgrade
 
-༒༺ apt install python
 
-༻༒༺ pkg install python2
 
-༻༒༺ pkg install git 
+apt update
 
-༻༒༺ pip2 install requests
+apt upgrade
 
-༻༒༺ pip2 install mechanize
+apt install python
 
-༻༒༺ pip2 install requests bs4
+pkg install python2
 
-༻༒༺ pip2 install mechanize 
+pkg install git 
 
-༻༒༺ rm -rf FB-KING
+pip2 install requests
 
-༻༒༺ git clone https://github.com/TermuxTalha/FB-KING.git
+pip2 install mechanize
 
-༻༒༺ cd FB-KING
+pip2 install requests bs4
 
- 
+pip2 install mechanize 
 
-༻༒༺ python ➳ᴹᴿ᭄𝑻𝒂𝒍𝒉𝒂Fb-king.py
+rm -rf clonefb
 
- ༻༒༺JOIN MY TELEGRAM GROUP : https://t.me/talhatechnology
+git clone https://github.com/mr4605/clonefb.git
 
-༻༒༺ Join my WhatsApp group : https://chat.whatsapp.com/Bherp2QiChNH5rffkuzQpc
+cd clonefb
 
-༻༒༺Thanks for Using The FB-KING TOOLS 🤩༻༒༺
+python clonefacebook.py
+
+
+
+
+
+
+
+
